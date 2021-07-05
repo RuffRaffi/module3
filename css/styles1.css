@@ -1,0 +1,51 @@
+body {
+	background-color: #ffe5d9;
+	font-size: 16px;
+	font-family: 'oxygen', sans-serif;
+}
+
+
+h2 {text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#main-text {
+	background-color: #d8e2dc;
+	padding: 30px 30px 800px 30px;
+}
+
+
+
+#header-nav {
+	background-color: #6d6875;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding: 25px;
+}
+
+.navbar-brand h1 {
+	color: white;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	text-align: center;
+	color: gray;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
